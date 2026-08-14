@@ -1,0 +1,25 @@
+# Ignore compiled executables and object files
+*.o
+*.out
+*.exe
+*.bin
+
+# Ignore build folder
+build/
+.spyproject/
+.vscode/
+remove_sailing/
+
+# Ignore settings folder
+settings/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# ignore any compile test with prefix
+test_*
