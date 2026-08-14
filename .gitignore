@@ -4,12 +4,12 @@
 *.exe
 *.bin
 
-# Ignore build folder
 build/
 .spyproject/
 .vscode/
 remove_sailing/
 */saved_models/
+generated_*
 
 # Ignore settings folder
 settings/
