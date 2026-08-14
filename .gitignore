@@ -9,6 +9,7 @@ build/
 .spyproject/
 .vscode/
 remove_sailing/
+*/saved_models/
 
 # Ignore settings folder
 settings/
